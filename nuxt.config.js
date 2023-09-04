@@ -166,7 +166,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: "http://ecommerce.deokachikirx.com",
+    baseURL: "https://ecommerce.deokachikirx.com",
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
